@@ -1,0 +1,4 @@
+type Query {
+    # The API Version
+    version: String!
+}
